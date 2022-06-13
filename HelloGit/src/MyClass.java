@@ -6,6 +6,10 @@ public class MyClass {
 		System.out.println("Hello Git");
 		System.out.println("This is ??? Version");
 		System.out.println("Change in master branch");
+		System.out.println("Hello Git");
+		
+		MyHello myHello = new MyHello();
+		myHello.sayHello();
 	}
 
 }
